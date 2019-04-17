@@ -1,7 +1,7 @@
 # my-money-app
 
 Este projeto se trata de uma aplicação Single Page Application feita no curso
-cod3r no intuito de aprender e fixar conceitos de React Web.
+cod3r no intuito de aprender e fixar conceitos de React e Redux.
 
 Se trata de um sistema financeiro, que é possível lançar valores de crédito e débito para uma determinada data. 
 Possibilitando listar todos esses lançamentos, editar e deletar. 
